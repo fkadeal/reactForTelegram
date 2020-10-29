@@ -376,7 +376,7 @@ class ChatInfo extends React.Component {
         return popup ? (
             <>{content}</>
         ) : (
-            <div className={classNames('chat-info', { 'right-column': !popup }, className)}>{content}</div>
+            <div className={classNames('chat-info', { 'right-column': !popup }, className)}>{content}<br></br>etbaba.com developed by fkadeal mat</div>
         );
     }
 }

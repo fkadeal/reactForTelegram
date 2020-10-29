@@ -1509,9 +1509,12 @@ class MessagesList extends React.Component {
                 })}
                 onDragEnter={this.handleListDragEnter}>
                 <div ref={this.listRef} className='messages-list-wrapper' onScroll={this.handleScroll}>
+                <script data-ad-client="ca-pub-9996909059776744" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <h1>added</h1>
                     <div className='messages-list-top' />
                     <div ref={this.itemsRef} className='messages-list-items'>
                         {this.messages}
+                        <h6>@etbaba.com</h6>
                     </div>
                 </div>
                 <ActionBar chatId={chatId} />

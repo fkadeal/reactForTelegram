@@ -1567,6 +1567,8 @@ class InputBox extends Component {
 
         return (
             <div className='inputbox-background'>
+                <script data-ad-client="ca-pub-9996909059776744" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <h1>added inbox</h1>
                 <div className={classNames('inputbox', { 'inputbox-recording': recordingTime }, { 'shook': shook })}>
                     <div className={classNames('inputbox-bubble')}>
                         <InputBoxHeader

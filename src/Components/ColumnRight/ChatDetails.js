@@ -447,7 +447,7 @@ class ChatDetails extends React.Component {
                     ref={this.listRef}
                     className={classNames('chat-details-list', 'scrollbars-hidden')}
                     onScroll={this.handleScroll}>
-                    <div className='chat-details-info'>
+                    <div className='chat-details-info'>fkadeal_mat_1
                         <Chat
                             chatId={chatId}
                             big={true}
