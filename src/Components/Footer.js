@@ -13,6 +13,8 @@ class Footer extends React.PureComponent {
     render() {
         return (
             <div className='footer-wrapper'>
+                fkadeal developer
+                <script data-ad-client="ca-pub-9996909059776744" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <span>{packageJson.version}</span>
             </div>
         );
